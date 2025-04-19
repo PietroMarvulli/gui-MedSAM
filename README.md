@@ -149,7 +149,7 @@ You can use your mouse scroll wheel to **Zoom in** and **Zoom out** on the image
 ## Video Example
 This [video](https://politecnicobari-my.sharepoint.com/:v:/g/personal/p_marvulli_phd_poliba_it/Ea1ypb2TmbZNvhA-b7bw_pEBr1c6L-RpYQyBWPOYZDGQng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pL5pR2) show an example of segmentation using the GUI illustrated before.
 
-## To-Do before running `gui_mod.py`
+## Tips for `gui_mod.py`
 Before running the gui, there are any changes you need to make in the code to load the videos correctly without getting errors
 > - Go to line 155 in the file `gui_mod.py` and enter a path to a folder containing the images to be segmented. Change the path `C:\Users\pietr\Downloads\data\video01_seq4` with an existing one on your pc with the images.
   ```python
