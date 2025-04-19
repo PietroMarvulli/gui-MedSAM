@@ -88,7 +88,7 @@ Before running the project, ensure the following software is installed:
    Button `📁` opens an interactive dialogue box for folder selection.  
    > ⚠️ **WARNING** : Only images with the suffix `_endo.png` for the structure of previously saved images will be displayed.  
    > Double Click on the image file in the left window load the corrispodent image.
-   ![Load Image](gui-example/load image.png)
+   ![Load Image](gui-example/load_image.png)
    > The check-box next to each image tells us whether the segmentation has already been carried out
 
 #### Right Mouse Button
