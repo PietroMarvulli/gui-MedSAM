@@ -30,11 +30,16 @@ Before running the project, ensure the following software is installed:
 - 🌐 GitHub Desktop (GUI): https://desktop.github.com/
 
 ## Installation
-1. Create a virtual environment: 
+1. First of all, you have to create the environment and you can do this either via the Pycharm GUI or via console:  
+   - Via console
    ```bash
-   conda create -n medsam python=3.10 -y
-   ```
-2. Activate the virtual environment created:
+      conda create -n medsam python=3.10 -y
+      ```
+   - Via Pycharm GUI:  
+   New Project > Custom Environment
+   ![create_env.png](gui-example/create_env.png)
+   
+3. Activate the virtual environment created:
    ```bash 
    conda activate medsam
    ```
