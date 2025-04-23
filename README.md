@@ -1,6 +1,6 @@
 ## Prerequisites
 
-Before running the project, ensure the following software is installed:
+Before running the project, ensure the following software are installed:
 
 ### 1. [Anaconda](https://www.anaconda.com/products/distribution) **or** [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
